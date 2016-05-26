@@ -1,0 +1,32 @@
+body {
+  font-family: 'Roboto Mono';
+
+  background: linear-gradient(#388E3C,#388E3D); /* Standard syntax */
+  text-decoration: none;
+  margin: 0 0 0 0;
+  color: #fff;
+  text-align: center;
+}
+
+#submitButton {
+  float: left;
+  width: 30%;
+  margin: 15 15 15 15;
+}
+
+/* unvisited link */
+a:link {
+    color: blue;
+}
+
+/* visited link */
+a:visited {
+    color: blue;
+}
+
+
+h3 { color: #111; font-family: 'Helvetica Neue', sans-serif; font-size: 275px; font-weight: bold; letter-spacing: -1px; line-height: 1; text-align: center; }
+
+
+
+p { color: #111; font-family: 'Helvetica Neue', sans-serif; font-size: 14px; line-height: 24px; margin: 0 0 24px; text-align: center0; text-justify: inter-word; }
